@@ -1,0 +1,48 @@
+header{
+    background-color: #e6dcd3;
+    background-attachment: fixed;
+    
+}
+
+
+.a{
+    font-family: 'Gothic A1', sans-serif;
+}
+
+h1,h2 {font-family: 'Black Han Sans', sans-serif;
+}
+h3,h4,h5,h6 {
+    font-family: 'Noto Serif KR', serif;}
+.fs4, .fs5, .fs6, p{font-family: 'Noto Serif KR', serif;}
+    nav{background-color: #3F4E4F
+        ;}
+
+
+        .btn-dark {
+            --bs-btn-font-weight: 600;
+            --bs-btn-color: var(--bs-white);
+            --bs-btn-bg: #3F4E4F;
+            --bs-btn-border-color: var(--bd-#3F4E4F);
+            --bs-btn-border-radius: .5rem;}
+  
+
+
+
+#about-this-month {background-color: #3F352C;}
+
+#about-best{background-color: #BDA18C
+    ;}
+    
+/* 뉴스 섹션 */
+#news {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url(images/news-bg.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+/* 네비게이션 영역 */
+.nav-link:hover,
+.nav-link.active {
+    color: #D98481
+    !important;
+}
