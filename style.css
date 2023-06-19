@@ -9,15 +9,15 @@ header{
     font-family: 'Gothic A1', sans-serif;
 }
 
-h1,h2 {font-family: 'Black Han Sans', sans-serif;
+h1,h2 {font-family: 'Black Han Sans', sans-serif; font-size: 38px;
 }
 h3,h4,h5,h6 {
     font-family: 'Noto Serif KR', serif;}
-.fs4, .fs5, .fs6, p{font-family: 'Noto Serif KR', serif;}
+.fs4, .fs5, .fs6{font-family: 'Noto Serif KR', serif;}
     nav{background-color: #3F4E4F
         ;}
 
-
+.p{ font-family: 'Noto Serif KR', serif;}
         .btn-dark {
             --bs-btn-font-weight: 600;
             --bs-btn-color: var(--bs-white);
@@ -46,3 +46,10 @@ h3,h4,h5,h6 {
     color: #D98481
     !important;
 }
+.navbar{ font-family: 'Noto Serif KR', serif;}
+
+
+/*이달의 전시*/
+
+
+/*풋터 영역*/
