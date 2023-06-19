@@ -1,0 +1,19 @@
+body{background-color:#e6dcd3 ;
+margin: 10px;
+padding: auto;}
+
+
+.a{
+    font-family: 'Gothic A1', sans-serif;
+}
+
+h1,h2 {font-family: 'Black Han Sans', sans-serif; font-size: 38px;
+}
+h3,h4,h5,h6 {
+    font-family: 'Noto Serif KR', serif;}
+.fs4, .fs5, .fs6{font-family: 'Noto Serif KR', serif;}
+    nav{background-color: #3F4E4F
+        ;}
+
+.p{ font-family: 'Noto Serif KR', serif;}
+       
